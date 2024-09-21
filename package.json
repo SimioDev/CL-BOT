@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "12.0.0",
+    "samp-query": "^0.1.5"
+  }
+}
